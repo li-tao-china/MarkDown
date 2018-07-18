@@ -39,7 +39,7 @@ litao的个人信息:
 ### 有序列表 demo
 litao的个人信息:
 1. name: litao
-  1. name
-    1. lt
+  11. lt
+    111. lt
 3. charu
 2. QQ: 504685767
